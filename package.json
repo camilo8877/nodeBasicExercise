@@ -1,0 +1,22 @@
+{
+  "name": "nodebrowser",
+  "version": "1.0.0",
+  "description": "Aplicacion",
+  "main": "http.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilo8877/exerciseNodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilo8877/exerciseNodejs/issues"
+  },
+  "homepage": "https://github.com/camilo8877/exerciseNodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
